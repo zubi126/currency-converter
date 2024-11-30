@@ -20,20 +20,30 @@ Clone the repository:
 
 bash
 git clone https://github.com/yourusername/currency-converter.git
+
+
 Navigate to the project directory:
-
-bash
+bash.
 cd currency-converter
+
+
+
 Install the required dependencies:
-
-bash
+bash.
 npm install
-Usage
-Run the application:
 
-bash
+
+
+
+
+Usage:
+Run the application:
+bash.
 npm start
+
+
 Open your web browser and navigate to http://localhost:3000.
+
 
 Select the currencies you want to convert between and enter the amount.
 
